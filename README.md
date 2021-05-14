@@ -1,1 +1,1 @@
-# chusen.entry
+# entry
